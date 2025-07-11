@@ -1,0 +1,4 @@
+Name,Cost
+latte, 2.5
+espresso, 1.5
+cappuccino, 3
